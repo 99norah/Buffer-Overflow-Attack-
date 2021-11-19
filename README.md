@@ -16,7 +16,7 @@ uploaded on github in 2021/11/19
 
 # Table of contain
 
-1. Report:
+1.Report:
 - file that contain lab report
 
 2.the bad file:
@@ -25,7 +25,7 @@ uploaded on github in 2021/11/19
 - Before start the attack, we need a shellcode. A shellcode is the code to launch a shell. It has to be loaded into the memory so that we can force the vulnerable program to jump to it. 
 - Shellcode and Shellcode.c
 
-4. Exploit file:
+4.Exploit file:
 -file that we tackadvantage of the vulnarability by
 
 5.stack.c
