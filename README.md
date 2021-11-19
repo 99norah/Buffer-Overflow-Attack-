@@ -15,11 +15,11 @@ updated in 2021/11/16
 uploaded on github in 2021/11/19
 
 # Table of contain
-1.Shellcode
-Before start the attack, we need a shellcode. A shellcode is the code to launch a shell. It has to be loaded into the memory so that we can force the vulnerable program to jump to it. 
+1.Shellcode.
+- Before start the attack, we need a shellcode. A shellcode is the code to launch a shell. It has to be loaded into the memory so that we can force the vulnerable program to jump to it. 
 
 2.stack.c
-The Vulnerable Program
+- The Vulnerable Program
 
 
 
